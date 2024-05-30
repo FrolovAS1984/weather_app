@@ -1,0 +1,11 @@
+.info {
+    background-image: url(../../img/cloud.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: 2px 5px 25px -3px rgba(180, 180, 180, 0.25);
+    width: 800px;
+    padding-bottom: 20px;
+
+}

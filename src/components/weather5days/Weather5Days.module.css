@@ -1,0 +1,30 @@
+.weather5day__container {
+    border-radius: 20px;
+    box-shadow: 2px 5px 25px -3px rgba(180, 180, 180, 0.25);
+    width: 800px;
+    text-align: left;
+    font-size: 20px;
+    background-color: #c4def1;
+}
+
+.weather_block {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    margin-right: 500px;
+
+
+
+}
+
+.day {
+    font-weight: bold;
+}
+
+.error {
+  color: #041f3c;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgba(136,64,61,0.73);
+  border-radius: 10px;
+}
