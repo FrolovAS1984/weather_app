@@ -20,7 +20,7 @@ function Service() {
         pressure: undefined,
         humidity: undefined,
         error: undefined,
-        flag: false
+
     });
 
     const [weatherdataFiveDay, setWeatherdataFiveDay] = useState({
